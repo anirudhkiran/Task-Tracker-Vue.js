@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Go to the gym",
+      "day": "March 3rd, 8:30AM",
+      "reminder": true,
+      "id": "gIajE-U"
+    },
+    {
+      "text": "Buy food",
+      "day": "March 3rd 2021",
+      "reminder": true,
+      "id": "KWsRFnq"
+    },
+    {
+      "text": "Buy milk ",
+      "day": "March 3rd, 8:30AM",
+      "reminder": true,
+      "id": "jni2mGS"
+    }
+  ]
+}
